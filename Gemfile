@@ -7,6 +7,9 @@ gem 'rails', '4.2.3'
 # Database
 gem 'pg'
 
+# ORM
+gem 'nobrainer'
+
 # Assets
 gem 'sassc-rails'
 gem 'uglifier', '>= 1.3.0'
