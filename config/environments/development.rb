@@ -41,4 +41,7 @@ Rails.application.configure do
 
   # Add Sass source maps
   config.sass.inline_source_maps = true
+
+  # Set React variant to development
+  config.react.variant = :development
 end
