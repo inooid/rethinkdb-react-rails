@@ -5,7 +5,7 @@ gem 'rails', '4.2.3'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Database
-gem 'pg'
+# gem 'pg'
 
 # ORM
 gem 'nobrainer'
