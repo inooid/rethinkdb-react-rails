@@ -16,6 +16,9 @@ gem 'therubyracer', platforms: :ruby
 # Not sure if I am even going to use this, because it shits on JavaScript apps
 gem 'turbolinks'
 
+# Server
+gem 'puma'
+
 # Development
 group :development, :test do
   gem 'byebug'
